@@ -1,0 +1,1 @@
+This is a NY Times News Analyzer I created using Python and Pandas. I created various visualizations to show trends regarding key words and publishing frequency. I also implemented a Sentiment Analyzer using Vader and included visualizations for that as well
